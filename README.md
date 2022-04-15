@@ -1,4 +1,4 @@
-## <!-- Typing SVG -->
+<!-- Typing SVG -->
 
 <p align="center">
 
