@@ -16,3 +16,9 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Auto+4dmin
 `cd Auto4dmin`
 
 `python3 admin.py`
+# REQUIREMENTS
+> Linux, Termux, Windows
+> Python Installed with PIP
+> Group Link
+> Phone number with country code
+
