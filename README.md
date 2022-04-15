@@ -28,6 +28,11 @@ Click [here](https://wa.me/+40747777738) to contact me
 > Group Link
 
 > Phone number with country code
+
+# ACCESS CODE
+You will be provided an Access code
+You need to verify it to access the script
+
 # DISCLAIMER
 This tool is only created for educational purposes
 
