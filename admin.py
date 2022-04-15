@@ -1,5 +1,6 @@
-# Python code obfuscated by 47hx1-53r
- 
+#/////////////////////////////////////////////
+# CODED BY 47HX1-53R WITH <3
+#/////////////////////////////////////////////
 
 import base64, codecs
 magic = 'IyBJTVBPUlRJTkcgU1RBUlRTCmltcG9ydCBzeXMsIHRpbWUKaW1wb3J0IG9zCm9zLnN5c3RlbSgiY2xlYXIiKQpvcy5zeXN0ZW0oInBpcCBpbnN0YWxs'
