@@ -24,4 +24,9 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Auto+4dmin
 > Group Link
 
 > Phone number with country code
+# DISCLAIMER
+This tool is only created for educational purposes
+
+Iam not responsible for any actions took by users
+
 
