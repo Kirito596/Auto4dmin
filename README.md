@@ -1,1 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Auto%20Admin%20Tool;Created%20by%2047hx1-53r)](https://git.io/typing-svg)
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://github.com/47hxl-53r">
+        <img
+src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=This+script+is+under+Maintenance"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
