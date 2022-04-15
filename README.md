@@ -39,4 +39,4 @@ This tool is only created for educational purposes
 
 Iam not responsible for any actions took by users
 
-
+Iam not responsible for any DAMAGE caused to people using this script
