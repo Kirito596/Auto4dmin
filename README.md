@@ -16,6 +16,10 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Auto+4dmin
 `cd Auto4dmin`
 
 `python3 admin.py`
+
+# CONTACT
+Click [here](https://wa.me/+40747777738) to contact me
+
 # REQUIREMENTS
 > Linux, Termux, Windows
 
