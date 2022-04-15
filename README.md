@@ -8,7 +8,7 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Auto+4dmin
     </a>
 </p>
 
-![alt text](https://i.imgur.com/6ZRdL8W.jpeg)
+![alt text](https://i.imgur.com/UBI0aLe.jpeg)
 
 # AUTO 4DMIN
 > Auto Admin tool used to Hijack Whatsapp group admins
