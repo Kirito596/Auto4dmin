@@ -1,6 +1,6 @@
 ## <!-- Typing SVG -->
 <p align="center">
-    <a href="https://github.com/47hxl-53r">
+    <a href="https://github.com/Kirito596">
         <img
 src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Auto+4dmin+tool+by+47hx1-53r"
             alt="Typing SVG"
@@ -19,7 +19,7 @@ cd Auto4dmin
 python3 admin.py
 ```
 # CONTACT
-Click [here](https://wa.me/+40747777738) to contact me
+Click [here](https://wa.me/) to contact me
 
 # REQUIREMENTS
 > Linux, Termux, Windows
